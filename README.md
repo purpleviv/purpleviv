@@ -1,10 +1,10 @@
 ## Olá! Meu nome é Vitoria 👋
 
 - 🔭 Atualmente estou trabalhando na Opus Software como Estagiária de Gestão
-- 🌱 Gosto muito de Front end e atualmente estou estudando Angular
+<!-- - 🌱 Gosto muito de Front end e atualmente estou estudando Angular -->
 
 
-### :phone: Conheça um pouco mais sobre mim aqui: 
+<!-- ### :phone: Conheça um pouco mais sobre mim aqui:  -->
 
 <!-- The link we want our bower bird to point to -->
 [1]: www.linkedin.com/in/vitoria-rodrigues
