@@ -1,6 +1,6 @@
-## Olá! Meu nome é Vitoria 👋
+<!-- ## Olá! Meu nome é Vitoria 👋 -->
 
-- 🔭 Atualmente estou trabalhando na Opus Software como Estagiária de Gestão
+<!-- - 🔭 Atualmente estou trabalhando na Opus Software como Estagiária de Gestão -->
 <!-- - 🌱 Gosto muito de Front end e atualmente estou estudando Angular -->
 
 
